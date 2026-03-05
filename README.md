@@ -1,5 +1,5 @@
-<h1>Nothing is Impossible</h1><br>
-# Console-Based Task Manager in C++
+<h1>Nothing is Impossible.</h1><br>
+<h1># Console-Based Task Manager in C++</h1>
 
 This project is a **Console-Based Task Manager developed in C++** as part of my **first C++ internship project offered by Code Alpha**.
 The program allows users to manage their daily tasks efficiently through a simple command-line interface.
